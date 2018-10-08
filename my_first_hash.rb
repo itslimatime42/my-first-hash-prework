@@ -3,6 +3,7 @@ def my_hash do
   example = {
     "my name" => "Robert Schulte"
     "my age" => 28
+    "sport" => "baseball"
   }
   return example
 end
