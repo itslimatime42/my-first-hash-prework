@@ -4,7 +4,7 @@ def my_hash do
     "my name" => "Robert Schulte"
     "my age" => 28
   }
-  return my_hash
+  return example
 end
 
 
@@ -33,7 +33,7 @@ def retrieval do
 
 end
 
-def adding do 
+def adding do
   shipping_manifest = {
                   "whale bone corsets" => 5,
                   "porcelain vases" => 2,
